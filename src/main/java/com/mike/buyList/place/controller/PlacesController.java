@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by mike on 8/8/15.
+ * Created by mike on 8/8/15..
  */
 @Controller
 @RequestMapping("/places")
